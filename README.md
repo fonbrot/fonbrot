@@ -1,10 +1,10 @@
-## My projects
+## My pet-projects
 
-[ReadSheet](https://github.com/fonbrot/readsheet-app)
+### [ReadSheet](https://github.com/fonbrot/readsheet-app)
 
 ReadSheet helps to learn musical notes on the staff.
 
-[Productivio](https://github.com/fonbrot/productivio)
+### [Productivio](https://github.com/fonbrot/productivio)
 
 Productivio is a power application for increasing personal productivity.
 
